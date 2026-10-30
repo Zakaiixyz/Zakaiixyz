@@ -18,4 +18,4 @@ Languages (at least for now) :
 
 ![C++](https://img.shields.io/badge/c/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23FF9800.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-%2300C853.svg?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-%2300A344.svg?style=for-the-badge&logo=python&logoColor=white)
