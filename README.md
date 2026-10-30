@@ -4,7 +4,7 @@
 ### About me :
 
 I am a **Software-Engineering (3/5)** student in Ferhat ABBAS University - Setif 1, who's trying to figure out and develop his skills.
-I am a part of the Development and Design department at SDG (Setif Developers Group) Club.
+I am a part of the Development and Design departments at SDG (Setif Developers Group) Club.
 **And I will always be an AI hater**.
 
 i'm interested in :
