@@ -1,15 +1,16 @@
 # Hey , I am Zakai.
 # My real name is Oubaid.
+
 ### About me :
 
-I am a **Software-Engineering (3/5)** student in Ferhat ABBAS University - Setif 1, who's trying to figure out and develop his skills. **And I will always be an AI hater**.
+I am a **Software-Engineering (3/5)** student in Ferhat ABBAS University - Setif 1, who's trying to figure out and develop his skills and **I will always be an AI hater**.
 
 i'm interested in :
 - Web and Apps development.
 - Reverse-Engineering.
 - A little bit in CyberSecurity.
 
-in my free time (most of the time actually) i just play games (or scroll through reels) .
+in my free time (most of the time actually) I just play games (or scroll through reels :P) .
 
 ---
 
